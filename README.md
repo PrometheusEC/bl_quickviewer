@@ -16,7 +16,7 @@ The goal is to **speed up look-dev and compositing iteration** inside Blender.
 # Demo
 
 <!-- Replace with your GIF -->
-[![Demo](docs/cover_demo.jpg)](docs/how_it_works_v01.mp4)
+[![Demo](docs/demo_cover.jpg)](docs/how_it_works_V01.mp4)
 
 ---
 
