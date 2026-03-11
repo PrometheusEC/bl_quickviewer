@@ -1,4 +1,4 @@
-# Nuke Hotkey Viewer (Blender Add-on)
+# Quickviewer for Blender
 
 ![VFX](https://img.shields.io/badge/Industry-VFX-purple)
 ![Compositing](https://img.shields.io/badge/Workflow-Compositing-blue)
