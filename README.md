@@ -15,8 +15,9 @@ The goal is to **speed up look-dev and compositing iteration** inside Blender.
 
 # Demo
 
-<!-- Replace with your GIF -->
-[![Demo](docs/demo_cover.jpg)](docs/how_it_works_V01.mp4)
+https://github.com/user-attachments/assets/a07cd163-8d0b-44e7-a6dd-adaaabffa2ba
+
+
 
 ---
 
@@ -104,6 +105,14 @@ Artists coming from **Nuke** often miss the ability to quickly inspect nodes usi
 
 This add-on recreates a similar **rapid preview workflow inside Blender**, reducing friction when working with complex compositor graphs.
 
+---
+
+# Current limitations
+- Doesn't save the view on cache, therefore it loads the compositing at that point of the node tree
+- Bugs sometimes with a Mix Color Node
+- Can't change the hotkeys, will add it on the second versions
+- Doesn't have an UI
+  
 ---
 
 # Author
